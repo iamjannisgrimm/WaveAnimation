@@ -2,5 +2,6 @@
 
 A SwiftUI repo featuring a fully customizable wave animation that can be used as a loading animation.
 
-https://github.com/user-attachments/assets/bbea1062-a70b-4e3d-8846-af2813fe24e9
+![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/44f10e71-c5c4-4b69-a6be-e23728d54191)
+
 
